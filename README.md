@@ -19,4 +19,5 @@
 https://documenter.getpostman.com/view/27813084/2s9Y5eLdtE
 
 ## Test Report:
+![Dmoney_Newman_Report](https://github.com/MondalAkash/API_Test_Demo/assets/35931882/f35445d4-3c66-48de-83a7-04eb78cc6023)
 
